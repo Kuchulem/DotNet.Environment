@@ -1,3 +1,9 @@
+[![NuGet Version](https://img.shields.io/nuget/v/Kuchulem.DotNet.Env?label=Nuget%20version&logo=nuget)](https://www.nuget.org/packages/Kuchulem.DotNet.Env/)
+[![NuGet Preversion](https://img.shields.io/nuget/vpre/Kuchulem.DotNet.Env?label=Nuget%20prerelease&logo=nuget)](https://www.nuget.org/packages/Kuchulem.DotNet.Env/)
+
+
+[![Unit tests](https://github.com/Kuchulem/DotNet.Environment/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/Kuchulem/DotNet.Environment/actions/workflows/tests.yml) [![CodeQL](https://github.com/Kuchulem/DotNet.Environment/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/Kuchulem/DotNet.Environment/actions/workflows/codeql.yml)
+
 # Introduction 
 The `Kuchulem.DotNet.Env` library provides the `EnvironmentParser` class to manage environment variables.
 
