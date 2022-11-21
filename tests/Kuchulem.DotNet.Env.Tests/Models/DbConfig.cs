@@ -19,7 +19,7 @@ namespace Kuchulem.DotNet.Env.Tests.Models
         [MapEnvVar("DB_PORT")]
         public int DbPort { get; set; }
 
-        [MapEnvVar("DB_Secret")]
+        [MapEnvVar("DB_SECRET")]
         public string? DbSecret { get; set; }
 
         [MapEnvVar("DB_UPDATE_DATE")]
