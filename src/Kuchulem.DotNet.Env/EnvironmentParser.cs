@@ -31,7 +31,7 @@ namespace Kuchulem.DotNet.Env
 
         /// <summary>
         /// Populated an object with environment variables.<br/>
-        /// The mapping from variables names to properties in case insensitive and does not
+        /// The mapping from variables names to properties is case insensitive and does not
         /// takes account of underscores ("_") in varialbe names.<br/>
         /// Values are cast to the object properties types.<br/>
         /// </summary>

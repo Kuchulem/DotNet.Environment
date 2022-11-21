@@ -9,11 +9,6 @@ This class provides advanced mechanics to get environment variables values and m
 
 Connect to the feed :
 
-```
-feed name : kuchulem
-url : https://pkgs.dev.azure.com/kuchulem/_packaging/kuchulem/nuget/v3/index.json
-```
-
 Install the library in your project :
 
 From the CLI (powershell) :
